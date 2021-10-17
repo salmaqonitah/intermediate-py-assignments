@@ -1,2 +1,2 @@
 # intermediate-py-assignments
-intermediate-py-assignments (as is)
+Intermediate Python assignments (as is)
